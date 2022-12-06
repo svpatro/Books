@@ -1,2 +1,2 @@
 # Books
-Notes from what I am reading.
+Notes from what I am reading - Updated daily. 
