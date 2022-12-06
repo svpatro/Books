@@ -1,5 +1,5 @@
 # SuperIntelligence - Nick Bostrom
-[Page Number] - “Quote”
+[Page Number] - “Quote from reading”
 
 Q - Question
 T - Terminology
@@ -21,6 +21,6 @@ A: (found in footnote #1) subsistence level income today is about 400 USD.
 ### Footnote Links:
 3. [Hanson 2000](https://mason.gmu.edu/~rhanson/longgrow.pdf)
 
-##**Chapter Two:** Paths to SuperIntelligence
+## Chapter Two: Paths to SuperIntelligence
 
 
